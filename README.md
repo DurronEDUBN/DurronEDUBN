@@ -1,4 +1,4 @@
-<h1>Hi, I'm Durron Elmore! <br/><a href="https://github.com/DurronEDUBN">Programmer</a>, <a href="https://www.linkedin.com/in/Durron E/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Durron, an <br/><a href="https://github.com/DurronEDUBN">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,7 +18,4 @@ protocols)
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/durron-e-31baa4269
